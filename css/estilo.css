@@ -1,0 +1,40 @@
+body {
+    background-image: url("../img/index.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 140vh;
+
+  }
+
+.icono {
+    max-height: 50px;
+    width: 200px;
+}
+
+.custom-card {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    color: white;
+  }
+  
+  .custom-card .card-body {
+    background-color: transparent;
+    padding: 1.5rem;
+    text-align: center;
+  }
+
+  .seccion-cards {
+    margin-top: 120px;
+  }
+
+  .custom-card .card-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+  
+  .custom-card .card-text {
+    font-size: 1.2rem;
+  }
+  
